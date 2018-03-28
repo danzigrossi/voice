@@ -1,0 +1,16 @@
+
+
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ public <syntax>  = (one | two | three| four| five | six | seven | eight | nine | ten | eleven | twelve | thirteen | fourteen | fifteen | sixteen | seventeen | eighteen | nineteen | twenty) 
+                                                          (plus | minus | multiply | division)                          
+                   (one | two | three| four| five | six | seven | eight | nine | ten | eleven | twelve | thirteen | fourteen | fifteen | sixteen | seventeen | eighteen | nineteen | twenty);
+
+ */
+
+grammar grammare;
+public <words>   = (flower | bird | computer);
+
+public <trolling> = ( market list | fuck you mary | how are you | end computer );
